@@ -1,2 +1,2 @@
-# too-app
+# to-do-app
 by- vikas joshi.
